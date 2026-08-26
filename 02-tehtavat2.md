@@ -5,7 +5,7 @@ permalink: /projekti/
 
 # Projektitehtävät
 
-Kurssin projektitehtävät julkaistaan tällä sivulla.
+Kurssin projektitehtävät julkaistaan syyskuun puoliväliin mennessä.
 
 <!--
 Tältä sivulta löydät kurssin projektitehtävät. Tehtävien aiheina on ohjelmointi, tietokannan suunnittelu ja tietokantojen ominaisuudet. Viimeisessä tehtävässä on ohjeet, miten voit ilmoittautua kurssille sekä antaa kurssipalautteen.
@@ -37,5 +37,5 @@ Kurssin henkilökunta käy läpi palautukset kurssin deadlinen jälkeen, mutta p
 
 Palauta tehtävät yhtenä pdf-tiedostona, joka sisältää kaikki vastauksesi.
 
-Palauta pdf-raportti [verkkolomakkeen](https://elomake.helsinki.fi/lomakkeet/140530/lomake/) kautta viimeistään 28.6.2026 klo 23:59.
+Palauta pdf-raportti [verkkolomakkeen](https://elomake.helsinki.fi/lomakkeet/141149/lomake/) kautta viimeistään 25.10.2026 klo 23:59.
 -->
