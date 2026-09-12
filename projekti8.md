@@ -6,28 +6,27 @@ hide: true
 
 # Projektitehtävä 8
 
-Tässä tehtävässä on ohjeet, miten voit ilmoittautua kurssille sekä antaa kurssipalautteen.
+Tämän tehtävän avulla voit varmistaa, että olet tehnyt tarvittavat asiat kurssin suorittamista varten. Kaikki kurssin suorittajat saavat tästä tehtävästä 10 pistettä automaattisesti.
 
 ## Ilmoittautuminen
 
-<!--
-Ilmoittaudu kurssille Avoimen yliopiston kautta [verkkolomakkeella](https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-43dcf98b-7586-42fe-82e5-3feb4a560932).
--->
+Löydät ohjeet ilmoittautumiseen kurssisivuston [etusivulta](../).
 
-TODO
+Kurssin suorittaminen vaatii, että ilmoittaudut viimeistään 25.10.2026.
 
-Kurssin suoritusmerkinnän saaminen vaatii, että ilmoittaudut kurssille viimeistään 25.10.2026.
+## Projektin palautus
+
+Palauta kaikki projektitehtävät yhtenä pdf-tiedostona [ohjeiden mukaisesti](../projekti). Tehtävät tulee palauttaa viimeistään 25.10.2026.
+
+## Tentti
+
+Muista osallistua myös exam-tenttiin viimeistään 8.11.2026.
 
 ## Kurssipalaute
 
-Anna kurssipalaute [Norppa-järjestelmän](https://coursefeedback.helsinki.fi/targets/112659091) kautta.
+Voit antaa anonyymin kurssipalautteen [Norppa-järjestelmän](https://coursefeedback.helsinki.fi/targets/112659091) kautta. Anna palaute viimeistään 26.10.2026.
 
-TODO avoin
+<div class="note" markdown="1">
+Syksyllä 2026 vain Helsingin yliopiston tutkinto-opiskelijat voivat antaa palautteen Norppa-järjestelmässä. Jos olet avoimen yliopiston opiskelija, voit halutessasi antaa palautetta (ei anonyymisti) [sähköpostitse](mailto:ahslaaks@cs.helsinki.fi).
+</div>
 
-Palaute on anonyymia ja palautteen yhteenveto julkaistaan kurssisivustolla. Anna palaute viimeistään 26.10.2026.
-
-Jos sinulla ei ole Helsingin yliopiston tunnuksia, pystyt antamaan palautteen ilmoittautumisen jälkeen sähköpostitse tulevien ohjeiden avulla. Ohjeet palautteen antamiseen tulevat viimeistään seuraavana päivänä ilmoittautumisesta.
-
-## Palautusohje
-
-Raportissa riittää mainita, että olet suorittanut tämän tehtävän eli olet ilmoittautunut kurssille sekä antanut (tai tulet antamaan) kurssipalautteen.

@@ -18,7 +18,11 @@ Kummassakin osassa sinun tulee saada vähintään 50 pistettä tehtävistä. Lis
 
 **Onko kurssilla tenttiä?**
 
-Kurssin jälkimmäiseen osaan (projekti ja tentti) kuuluu pakollinen exam-tentti.
+Kurssin jälkimmäiseen osaan (projekti ja tentti, 2 op) kuuluu pakollinen exam-tentti.
+
+**Voiko tutkinto-opiskelija suorittaa vain ensimmäisen osan?**
+
+Kurssin ensimmäinen osa (SQL-kieli, 3 op) on avoin kaikille, myös tutkinto-opiskelijoille. Huomaa kuitenkin, että tutkintosi voi vaatia koko 5 op kurssin suorittamisen.
 
 **Miten kurssin tehtävien ratkaisut tulee tehdä?**
 
