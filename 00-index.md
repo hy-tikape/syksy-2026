@@ -21,7 +21,7 @@ Kurssilla on tarjolla pajaohjausta 1.9. alkaen Exactumissa (huone BK107) maanant
 Helsingin yliopiston tutkinto-opiskelijat ilmoittautuvat Sisussa 5 op kurssille, joka kattaa molemmat osasuoritukset (3 op + 2 op).
 
 Avoimen yliopiston opiskelijat ilmoittautuvat Sisun kautta erikseen osasuorituksiin. Ilmoittautumislinkit:
-[SQL-kieli (3 op)](https://sisu.helsinki.fi/student/courseunit/otm-64873535-b977-436f-bb4a-89ab2d9168e0/open-university/otm-61c4fb43-7eee-487f-8bcb-6c0fa3f220da),
+[SQL-kieli (3 op)](https://sisu.helsinki.fi/student/courseunit/otm-64873535-b977-436f-bb4a-89ab2d9168e0/open-university/otm-61c4fb43-7eee-487f-8bcb-6c0fa3f220da?token=7G89VY6F4X),
 [projekti ja tentti (2 op)](https://sisu.helsinki.fi/student/courseunit/otm-9c9e8188-baad-4512-879a-9fc0a2f90b68/open-university/otm-de8c4a8a-5516-4394-ba5a-8db2add3a055)
 
 Kaikissa suoritustavoissa sinun tulee ilmoittautua viimeistään 25.10.2026.
